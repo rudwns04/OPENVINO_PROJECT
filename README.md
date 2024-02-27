@@ -10,6 +10,6 @@
   | 김용제 | Project member, 프로젝트 멤버1 |
   | 이경준 | Project member, 프로젝트 멤버2 |
 
-* Project Github : 
+* Project Github : https://github.com/rudwns04/OPENVINO_PROJECT.git
 
 * 발표자료 : 
