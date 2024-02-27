@@ -12,4 +12,4 @@
 
 * Project Github : https://github.com/rudwns04/OPENVINO_PROJECT.git
 
-* 발표자료 : polarisoffice.com/d/2RRhj7WZ
+* 발표자료 : 
