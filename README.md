@@ -37,12 +37,12 @@
 
 - **배경화면의 다양화:** 하나의 감정에 여러가지의 배경화면이 바뀌도록 개선하였습니다.
 
-- ![스크린샷 2024-02-28 09-29-28](https://github.com/rudwns04/OPENVINO_PROJECT/assets/154478954/563fe5d6-7774-4f64-a460-f7e75c87c5e5)
+ ![스크린샷 2024-02-28 09-29-28](https://github.com/rudwns04/OPENVINO_PROJECT/assets/154478954/563fe5d6-7774-4f64-a460-f7e75c87c5e5)
 
-- ![스크린샷 2024-02-28 09-29-38](https://github.com/rudwns04/OPENVINO_PROJECT/assets/154478954/a4bec540-6e9c-4397-bf4a-115a363ecfac)
+ ![스크린샷 2024-02-28 09-29-38](https://github.com/rudwns04/OPENVINO_PROJECT/assets/154478954/a4bec540-6e9c-4397-bf4a-115a363ecfac)
 
 
 
 - **화면의 화질개선:** 웹캠에 나오는 화면의 화질을 개선하였습니다.
 
-- ![스크린샷 2024-02-28 09-21-40](https://github.com/rudwns04/OPENVINO_PROJECT/assets/154478954/a86cbb67-4d44-402b-b36d-46842bab838e)
+ ![스크린샷 2024-02-28 09-21-40](https://github.com/rudwns04/OPENVINO_PROJECT/assets/154478954/a86cbb67-4d44-402b-b36d-46842bab838e)
