@@ -20,7 +20,7 @@
 
 - **Human Face Recognition:** 비디오 또는 실시간 웹캠에서 사람의 표정을 인식하고 분석합니다.
 
-- ![스크린샷 2024-02-27 10-12-29](https://github.com/rudwns04/OPENVINO_PROJECT/assets/154478954/4713bd27-4dc5-438b-8abb-9ab1e76cc690)
+ ![스크린샷 2024-02-27 10-12-29](https://github.com/rudwns04/OPENVINO_PROJECT/assets/154478954/4713bd27-4dc5-438b-8abb-9ab1e76cc690)
 
 
 - **Background Change:** 특정 객체(본 예시에서는 '사람 얼굴')를 실시간으로 탐지합니다. 객체는 그대로 두고 배경화면을 쉽게 바꾸는 기술입니다.
