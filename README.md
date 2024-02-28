@@ -19,7 +19,7 @@
 이 프로젝트는 다음 두 가지 주요 기술을 활용합니다:
 
 - **Human Face Recognition:** 비디오 또는 실시간 웹캠에서 사람의 표정을 인식하고 분석합니다.
--
+
 - ![스크린샷 2024-02-27 10-12-29](https://github.com/rudwns04/OPENVINO_PROJECT/assets/154478954/4713bd27-4dc5-438b-8abb-9ab1e76cc690)
 
 
